@@ -1,6 +1,7 @@
 baseURL: "https://about.wingleung.me/"
-title: About Wing Leung
-paginate: 5
+title: About Tony
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -8,24 +9,31 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+ignoreLogs: ['warning-goldmark-raw-html']
+
 minify:
   disableXML: true
   minifyOutput: true
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Know more about Wing Leung, a digital marketing in Hong Kong 
-  description: "This is my page made by Hugo, and I am a digital marketing based in Hong Kong with 12 years of experience in website marketing, seo, sem and social media strategy for the Southeast Asia Market."
-  keywords: [Digital Marketing, Social Media Marketing, Website Marketing, Blog, Portfolio, PaperMod]
-  author: Wing Leung 
+  title: Tony - Digital Marketing Professional in Hong Kong
+  description: "I am a digital marketing professional based in Hong Kong with 13 years of experience in website marketing, SEO, SEM, and social media strategy for the Southeast Asia market."
+  keywords: [Digital Marketing, Social Media Marketing, Website Marketing, SEO, SEM, Content Strategy, Hong Kong]
+  author: Tony 
   # author: ["Me", "You"] # multiple authors
   images: ["images/wl-icon.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: true
+  
+  # Add social parameters for new Hugo version
+  social:
+    twitter: chtwlaa
+    facebook_admin: ""
 
   ShowReadingTime: false
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -48,26 +56,29 @@ params:
     favicon32x32: "images/wl-icon.png"
     apple_touch_icon: ""
     safari_pinned_tab: ""
+    
+  customCSS:
+    - css/custom.css
 
   label:
-    text: "About Wing Leung"
-    icon: "images/wl-icon.png"
+    text: "About Tony"
+    icon: ""
     iconHeight: 30
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Greetings, this is Wing Leung \U0001F44B"
-    subtitle: "A digital marketer with 12 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
+    title: "Greetings, this is Tony \U0001F44B"
+    subtitle: "A digital marketer with 13 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
     imageUrl: "images/me.jpg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: About Wing Leung
+    imageTitle: About Tony
     buttons:
       - name: "Portfolios"
-        url: "/portfolios/"
+        url: "https://www.wdigitalagency.com/portfolios/"
       - name: "Contact"
-        url: mailto:hi@wingleung.me
+        url: "https://www.wdigitalagency.com/contact/"
 
   # home-info mode
   homeInfoParams:
@@ -79,8 +90,6 @@ params:
       url: "https://www.instagram.com/chtwlaa/"
     - name: threads
       url: "https://www.threads.net/@chtwlaa"
-    - name: youtube
-      url: "https://www.youtube.com/@wingleungsblog2.086"
     - name: linkedin
       url: "https://www.linkedin.com/in/twlaa/"
     - name: github
@@ -89,6 +98,8 @@ params:
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
+      # Add actual Google Analytics ID when available
+      googleAnalytics: "" # Add your GA ID here
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -100,7 +111,7 @@ params:
     hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: ""
     Text: "" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -123,15 +134,15 @@ menu:
       weight: 10
     - identifier: Portfolios
       name: portfolios
-      url: /portfolios/
+      url: https://www.wdigitalagency.com/portfolios/
       weight: 20
     - identifier: blog
       name: blog
-      url: https://www.wingleung.me
+      url: https://www.wingleung.me/
       weight: 30
-    - identifier: search
-      name: search
-      url: /search/
+    - identifier: contact
+      name: contact
+      url: https://www.wdigitalagency.com/contact/
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 
@@ -144,9 +155,15 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON # necessary for search
+
+permalinks:
+  posts: /:year/:month/:title/ 

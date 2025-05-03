@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>About Wing Leung</title>
+    <title>About Tony</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on About Wing Leung</description>
+    <description>Recent content on About Tony</description>
     <image>
-      <title>About Wing Leung</title>
+      <title>About Tony</title>
       <url>http://localhost:1313/images/wl-icon.png</url>
       <link>http://localhost:1313/images/wl-icon.png</link>
     </image>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -19,79 +19,73 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;I&amp;rsquo;d love to hear from you! Please fill out the form below and I will get back to you as soon as possible.&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;!-- modify this form HTML and place wherever you want your form --&gt;
+&lt;form
+  action=&#34;https://formspree.io/f/mwpedjgn&#34;
+  method=&#34;POST&#34;
+&gt;
+  &lt;label&gt;
+    Your email:
+    &lt;input type=&#34;email&#34; name=&#34;email&#34;&gt;
+  &lt;/label&gt;
+  &lt;label&gt;
+    Your message:
+    &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;
+  &lt;/label&gt;
+  &lt;!-- your other form fields go here --&gt;
+  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+&lt;/form&gt;
 &lt;p&gt;Thank you for reaching out!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav</title>
-      <link>http://localhost:1313/portfolios/deity-microphones-viviana-sound-solutions/</link>
-      <pubDate>Fri, 23 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/portfolios/deity-microphones-viviana-sound-solutions/</guid>
-      <description>&lt;p&gt;Hong Kong, 22 February 2024 - Deity Microphones, a leading provider of professional audio solutions, in collaboration with Viviana Sound Solutions, is thrilled to announce the highly anticipated Master Class Reality Show: How to Lav. This exclusive event will take place on 20 February 2024 at the prestigious venue, the Wave in Kwung Tong, Hong Kong, from 7-9pm.&lt;/p&gt;
-
-
-    
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/g3VAuSjUSzY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/deity-001.jpg&#34; alt=&#34;Deity Microphones X Viviana Sound Solutions: Master Class Hong Kong Reality Show: How to Lav&#34;  /&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019</title>
-      <link>http://localhost:1313/portfolios/digital-marketing-talk-hkpolyu-2019/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/portfolios/digital-marketing-talk-hkpolyu-2019/</guid>
-      <description>&lt;p&gt;In December 2019, I had the opportunity to deliver a 60-minute talk at HKPOLYU SPEED, focusing on the impact of vidoe marketing in digital marketing. The audience comprised part-time diploma students enrolled in digital marketing modules, totaling up to 50 participants.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/polyu-speed-2.jpg&#34; alt=&#34;Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/polyu-speed-4.jpg&#34; alt=&#34;Engaging Insights on Video Digital Marketing: A Talk at HKPOLYU SPEED in Dec 2019&#34;  /&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Reviving Nature: A Community Video Campaign for the Restoration of Section 4 of the MacLehose Trail</title>
-      <link>http://localhost:1313/portfolios/green-earth-reviving-nature-2019/</link>
-      <pubDate>Wed, 28 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/portfolios/green-earth-reviving-nature-2019/</guid>
-      <description>&lt;h2 id=&#34;date&#34;&gt;Date:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;February 2019&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;location&#34;&gt;Location:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Section 4 of the MacLehose Trail&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;organizer&#34;&gt;Organizer:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://greenearth.org.hk/en/&#34;&gt;The Green Earth&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tmitrail.org.tw/en/about&#34;&gt;Taiwan Thousand Miles Trail Association&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;project-overview&#34;&gt;Project Overview:&lt;/h2&gt;
-&lt;p&gt;The hiking trails in Hong Kong are frequently used, especially during cross-country races or large hiking events, where hundreds or even thousands of participants can cause significant wear on the paths.&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/green-earth-1.jpg&#34; alt=&#34;Reviving Nature: A Community Video Campaign for the Restoration of Section 4 of the MacLehose Trail&#34;  /&gt;
-&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jan 2024 09:00:00 +0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;I am a digital marketer based in Hong Kong, specializing in various aspects of digital marketing including content marketing, website development and marketing, search engine marketing SEO &amp;amp; SEM, and e-commerce strategy. My goal is to leverage my skills and experience to contribute to innovative marketing projects and help businesses grow in the digital landscape.&lt;/p&gt;
-&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;professional-overview&#34;&gt;Professional Overview&lt;/h2&gt;
+&lt;p&gt;I am a seasoned digital marketer based in Hong Kong with 12+ years of experience in the Southeast Asia market. My expertise spans content marketing, website development, search engine optimization, and e-commerce strategy. I help businesses navigate the digital landscape to achieve sustainable growth and meaningful connections with their audiences.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;The best marketing doesn&amp;rsquo;t feel like marketing.&amp;rdquo; — Tom Fishburne&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;core-expertise&#34;&gt;Core Expertise&lt;/h2&gt;
+&lt;div class=&#34;skill-container&#34;&gt;
+&lt;h3 id=&#34;content-marketing&#34;&gt;Content Marketing&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Content Marketing: Creating and managing content strategies that engage audiences and drive conversions.&lt;/li&gt;
-&lt;li&gt;Website Marketing: Overseeing website performance, user experience, and content updates to ensure optimal functionality.&lt;/li&gt;
-&lt;li&gt;SEO &amp;amp; SEM: Implementing search engine optimization strategies and managing search engine marketing campaigns to enhance visibility and traffic.&lt;/li&gt;
-&lt;li&gt;E-Commerce Strategy: Developing strategies that maximize online sales through effective marketing tactics.&lt;/li&gt;
+&lt;li&gt;Strategic content planning and execution&lt;/li&gt;
+&lt;li&gt;Audience engagement optimization&lt;/li&gt;
+&lt;li&gt;Conversion-focused content development&lt;/li&gt;
+&lt;li&gt;Storytelling for brand development&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;
-&lt;p&gt;Outside of my professional life, I enjoy a variety of hobbies that keep me active and inspired:&lt;/p&gt;</description>
+&lt;h3 id=&#34;website-development--marketing&#34;&gt;Website Development &amp;amp; Marketing&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UX/UI optimization for conversion&lt;/li&gt;
+&lt;li&gt;Website performance analytics&lt;/li&gt;
+&lt;li&gt;Content management systems (CMS)&lt;/li&gt;
+&lt;li&gt;Mobile responsiveness implementation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;search-engine-optimization&#34;&gt;Search Engine Optimization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Technical SEO audits and implementation&lt;/li&gt;
+&lt;li&gt;On-page and off-page optimization&lt;/li&gt;
+&lt;li&gt;Keyword research and strategy&lt;/li&gt;
+&lt;li&gt;Analytics and performance tracking&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;e-commerce-strategy&#34;&gt;E-Commerce Strategy&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital marketplace optimization&lt;/li&gt;
+&lt;li&gt;Conversion rate optimization (CRO)&lt;/li&gt;
+&lt;li&gt;Customer journey mapping&lt;/li&gt;
+&lt;li&gt;Sales funnel development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve collaborated with brands across multiple industries including retail, technology, education, and hospitality throughout Southeast Asia. My approach combines data-driven insights with creative solutions to deliver measurable results for clients.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Page Not Found</title>
+      <link>http://localhost:1313/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/404.html</guid>
+      <description>This page doesn&amp;#39;t exist</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,82 @@
+/* Custom Styles for About Page */
+
+/* Quote styling */
+blockquote {
+  border-left: 4px solid #0077b6;
+  padding-left: 1rem;
+  font-style: italic;
+  color: #555;
+  background-color: rgba(0, 119, 182, 0.1);
+  padding: 1rem;
+  border-radius: 0 4px 4px 0;
+  margin: 2rem 0;
+}
+
+/* Skill container styling */
+.skill-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  margin: 2rem 0;
+}
+
+.skill-container h3 {
+  color: #0077b6;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #0077b6;
+  padding-bottom: 0.5rem;
+}
+
+.skill-container ul {
+  margin-left: 1.5rem;
+}
+
+/* Image styling */
+.post-content img {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  max-width: 100%;
+  height: auto;
+  margin: 2rem 0;
+}
+
+/* Contact section styling */
+.post-content h2:last-of-type {
+  margin-top: 3rem;
+}
+
+/* Emoji spacing */
+.post-content p a {
+  margin-left: 0.5rem;
+}
+
+/* Bold text styling */
+.post-content strong {
+  color: #0077b6;
+}
+
+/* Table of contents styling */
+.toc {
+  background-color: rgba(0, 119, 182, 0.05);
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+}
+
+.toc details summary {
+  cursor: pointer;
+  font-weight: bold;
+  color: #0077b6;
+}
+
+/* Professional Experience section */
+#professional-experience ul li {
+  margin-bottom: 0.75rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .skill-container {
+    grid-template-columns: 1fr;
+  }
+} 

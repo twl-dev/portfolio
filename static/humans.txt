@@ -1,0 +1,12 @@
+/* TEAM */
+	Name: Tony
+	Contact: hi@wingleung.me
+	From: Hong Kong
+
+/* SITE */
+	Last update: 2024/05/03
+	Language: English
+	Doctype: HTML5
+	IDE: VS Code
+	Generator: Hugo {{ hugo.Version }}
+	Built with: Hugo PaperMod Theme 

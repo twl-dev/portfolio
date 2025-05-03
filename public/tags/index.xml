@@ -1,122 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on About Wing Leung</title>
+    <title>Tags on About Tony</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on About Wing Leung</description>
+    <description>Recent content in Tags on About Tony</description>
     <image>
-      <title>About Wing Leung</title>
+      <title>About Tony</title>
       <url>http://localhost:1313/images/wl-icon.png</url>
       <link>http://localhost:1313/images/wl-icon.png</link>
     </image>
-    <generator>Hugo -- 0.134.3</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Feb 2024 09:00:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Content Marketing</title>
-      <link>http://localhost:1313/tags/content-marketing/</link>
-      <pubDate>Fri, 23 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/content-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deity</title>
-      <link>http://localhost:1313/tags/deity/</link>
-      <pubDate>Fri, 23 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/deity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Event Marketing</title>
-      <link>http://localhost:1313/tags/event-marketing/</link>
-      <pubDate>Wed, 28 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/event-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>MC Service</title>
-      <link>http://localhost:1313/tags/mc-service/</link>
-      <pubDate>Fri, 23 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/mc-service/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PR Marketing</title>
-      <link>http://localhost:1313/tags/pr-marketing/</link>
-      <pubDate>Fri, 23 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/pr-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Viviana Sound Solutions</title>
-      <link>http://localhost:1313/tags/viviana-sound-solutions/</link>
-      <pubDate>Fri, 23 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/viviana-sound-solutions/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Digital Marketing</title>
-      <link>http://localhost:1313/tags/digital-marketing/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/digital-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guest Talk</title>
-      <link>http://localhost:1313/tags/guest-talk/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/guest-talk/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>HKPolyU</title>
-      <link>http://localhost:1313/tags/hkpolyu/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/hkpolyu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Online Marketing</title>
-      <link>http://localhost:1313/tags/online-marketing/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/online-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tutorial</title>
-      <link>http://localhost:1313/tags/tutorial/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Video Marketing</title>
-      <link>http://localhost:1313/tags/video-marketing/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/video-marketing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Video Production</title>
-      <link>http://localhost:1313/tags/video-production/</link>
-      <pubDate>Mon, 30 Sep 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/video-production/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Country Park</title>
-      <link>http://localhost:1313/tags/country-park/</link>
-      <pubDate>Wed, 28 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/country-park/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hiking</title>
-      <link>http://localhost:1313/tags/hiking/</link>
-      <pubDate>Wed, 28 Feb 2024 09:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/hiking/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
