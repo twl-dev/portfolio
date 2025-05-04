@@ -19,22 +19,84 @@
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;I&amp;rsquo;d love to hear from you! Please fill out the form below and I will get back to you as soon as possible.&lt;/p&gt;
-&lt;!-- modify this form HTML and place wherever you want your form --&gt;
 &lt;form
   action=&#34;https://formspree.io/f/mwpedjgn&#34;
   method=&#34;POST&#34;
+  class=&#34;contact-form&#34;
 &gt;
-  &lt;label&gt;
-    Your email:
-    &lt;input type=&#34;email&#34; name=&#34;email&#34;&gt;
-  &lt;/label&gt;
-  &lt;label&gt;
-    Your message:
-    &lt;textarea name=&#34;message&#34;&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Your Name:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;Your Email:&lt;/label&gt;
+    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;subject&#34;&gt;Subject:&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;subject&#34; name=&#34;subject&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;message&#34;&gt;Your Message:&lt;/label&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; rows=&#34;5&#34; required&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;button type=&#34;submit&#34; class=&#34;submit-btn&#34;&gt;Send Message&lt;/button&gt;&lt;/p&gt;
 &lt;/form&gt;
+&lt;style&gt;
+.contact-form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #222;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  color: #fff;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #ddd;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  padding: 10px;
+  background-color: #333;
+  border: 1px solid #444;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+  outline: none;
+  border-color: #666;
+  box-shadow: 0 0 5px rgba(255,255,255,0.1);
+}
+
+.submit-btn {
+  background-color: #4d8;
+  color: #222;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.submit-btn:hover {
+  background-color: #5e9;
+}
+&lt;/style&gt;
 &lt;p&gt;Thank you for reaching out!&lt;/p&gt;</description>
     </item>
     <item>
