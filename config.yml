@@ -71,8 +71,8 @@ params:
     title: "Greetings, this is Tony \U0001F44B"
     subtitle: "A digital marketer with 13 years in the Southeast Asia market, focusing on website marketing and content marketing strategies."
     imageUrl: "images/me.jpg"
-    imageWidth: 120
-    imageHeight: 120
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: About Tony
     buttons:
       - name: "Portfolios"
@@ -97,9 +97,9 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "FCtQj6K9ZEhICfTeal1TnyrJL2fjANpcVjeMmE3mhwA"
       # Add actual Google Analytics ID when available
-      googleAnalytics: "" # Add your GA ID here
+      googleAnalytics: "G-HNQPWQ16VW" # Add your GA ID here
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:

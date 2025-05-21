@@ -5,17 +5,26 @@ meta-description: "Tony is a digital marketer based in Hong Kong, specializing i
 date: 2024-01-29T09:00:00+08:00
 showToc: true
 TocOpen: true
+cover:
+  image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=80"
 ---
 
 ## Professional Overview
 
-I am a seasoned digital marketer based in Hong Kong with 12+ years of experience in the Southeast Asia market. My expertise spans content marketing, website development, search engine optimization, and e-commerce strategy. I help businesses navigate the digital landscape to achieve sustainable growth and meaningful connections with their audiences.
-
 > "The best marketing doesn't feel like marketing." — Tom Fishburne
+
+I am a seasoned digital marketer based in Hong Kong with 13 years of experience in the Southeast Asia market. My expertise spans content marketing, website development, search engine optimization, and e-commerce strategy. I help businesses navigate the digital landscape to achieve sustainable growth and meaningful connections with their audiences.
+
 
 ## Core Expertise
 
 <div class="skill-container">
+
+### AI Application and Education
+- AI-driven marketing solutions and automation
+- AI tools training and workshops for teams
+- Integrating AI into business processes
+- Educational content and seminars on AI trends
 
 ### Content Marketing
 - Strategic content planning and execution
@@ -40,6 +49,12 @@ I am a seasoned digital marketer based in Hong Kong with 12+ years of experience
 - Conversion rate optimization (CRO)
 - Customer journey mapping
 - Sales funnel development
+
+### Production and Event Marketing
+- Event planning and on-site execution
+- Marketing campaigns for product launches and events
+- Cross-channel event promotion
+- Creative production for digital and physical events
 
 </div>
 
